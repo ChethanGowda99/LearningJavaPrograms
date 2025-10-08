@@ -1,5 +1,7 @@
 package ex_09_IfCondition;
 
+import java.util.Scanner;
+
 public class Lab83 {
 
 	public static void main(String[] args) 

@@ -6,6 +6,7 @@ public class Lab60_Tpecasting {
 	       long phone = 9876543210l;
 //	        short s = phone; // Implicit Narrow?
 	        short s1 = (short)phone; // Explicit Narrow?
+	        System.out.println(s1);
 	}
 
 }

@@ -1,4 +1,5 @@
 package ex_12_Whileloop;
+import java.util.Random;
 import java.util.Scanner;
 public class Lab_122 {
 

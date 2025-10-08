@@ -1,5 +1,7 @@
 package ex_07_UserInput;
 
+import java.util.Scanner;
+
 public class Lab72 {
 
 	public static void main(String[] args)
