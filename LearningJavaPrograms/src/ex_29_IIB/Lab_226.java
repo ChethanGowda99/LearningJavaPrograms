@@ -1,24 +1,19 @@
-package ex_21_IIB;
+package ex_29_IIB;
 
-public class Lab_161 {
+public class Lab_226 {
 
-    // ```
-    //IIB
-    //Instance initialization Block == IIB
-    //I will be executed when Object is created.
-    //```
-    public static void main(String[] args) {
-        A a1 = new A();
-        A a2 = new A();
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        new A1();
 
-    }
+	}
 
 }
-
-class A{
-    A(){
+class A1{
+    A1(){
         System.out.println("DC");
     }
+
     {
         System.out.println("Hi, I am IIB");
         System.out.println("If you want to execute or call something when object is created");
@@ -37,6 +32,8 @@ class A{
         System.out.println("Hi, I am IIB 3");
     }
     static {
-        System.out.println("Static");
+        System.out.println("1 - SIB");
     }
+
+
 }

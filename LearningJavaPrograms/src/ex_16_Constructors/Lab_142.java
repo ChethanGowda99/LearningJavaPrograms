@@ -20,7 +20,7 @@ class Car{
 	String name;
 	int year;
 	String model;
-	s
+	
 	//DC
 	Car()
 	{
