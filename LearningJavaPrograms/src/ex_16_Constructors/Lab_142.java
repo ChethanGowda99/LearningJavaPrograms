@@ -8,7 +8,7 @@ public class Lab_142 {
 		System.out.println(c1.name);
 		System.out.println(c1.model);
 		System.out.println(c1.year);
-		Baby b1=new Baby();
+		BabyC b1=new BabyC();
 		b1.name="tanisha";
 		System.out.println(b1.name);
 	}
@@ -30,11 +30,11 @@ class Car{
 	}
 }
 
-class Baby{
+class BabyC{
 	
 	  String name;
 	  
-	  Baby()
+	  BabyC()
 	  {
 		  name="appu";
 	  }
