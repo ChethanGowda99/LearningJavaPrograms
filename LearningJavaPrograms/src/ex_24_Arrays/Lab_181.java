@@ -13,6 +13,10 @@ public class Lab_181 {
 			System.out.println(marks[i]);
 
 	}
+		for(int ret:marks) {
+			System.out.println(ret);
+		}
 
 	}
+	
 }
