@@ -1,4 +1,4 @@
-package EX_17_Inheritance.singleinheritance;
+package ex_17_Inheritance.singleinheritance;
 
 public class Lab_146 
 {

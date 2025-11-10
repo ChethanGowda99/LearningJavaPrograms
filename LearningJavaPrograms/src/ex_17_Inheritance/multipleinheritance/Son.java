@@ -1,4 +1,4 @@
-package EX_17_Inheritance.multipleinheritance;
+package ex_17_Inheritance.multipleinheritance;
 
 public class Son //extends Father1,Father2
 

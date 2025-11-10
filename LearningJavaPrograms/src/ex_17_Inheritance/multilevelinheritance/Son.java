@@ -1,4 +1,4 @@
-package EX_17_Inheritance.multilevelinheritance;
+package ex_17_Inheritance.multilevelinheritance;
 
 public class Son extends Father
 {

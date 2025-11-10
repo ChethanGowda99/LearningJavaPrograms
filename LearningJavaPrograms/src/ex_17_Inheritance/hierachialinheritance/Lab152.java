@@ -1,4 +1,4 @@
-package EX_17_Inheritance.hierachialinheritance;
+package ex_17_Inheritance.hierachialinheritance;
 
 public class Lab152 { 
 	public static void main(String[] args)
